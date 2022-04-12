@@ -1,19 +1,16 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Sep 23 17:30:30 2021
-
-@author: Yhasmim
+Esse programa recebe uma informação e retorna uma resposta.
 """
 
-print("qual o turno que você estuda?")
+print("qual o turno que você estuda? m = manhã, t = tarde, n = noite")
 turno = input()
 if (turno == 'm'):
     print("bom dia!")
-elif (turno == 'v'):
+elif (turno == 't'):
     print("boa tarde!")
 elif (turno == 'n'):
     print("boa noite!")
-elif (turno != 'm' or turno != 'v' or turno != 'n'):
+elif (turno != 'm' or turno != 't' or turno != 'n'):
     print("Valor inválido!")
 
 input()
