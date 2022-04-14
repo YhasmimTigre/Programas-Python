@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 23 17:30:30 2021
-
-@author: Yhasmim
-"""
-
+#Esse programa recebe uma informação do usuário e retorna uma saudação 
 print("qual o turno que você estuda?")
 turno = input()
 if (turno == 'm'):
