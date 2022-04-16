@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Sep 23 16:12:12 2021
-
-@author: Yhasmim
+Esse programa calcula o seu peso ideal de acordo com sua classificação, utilizando
+um calculo e retornando o valor final.
 """
 
 print ("qual a sua altura?")
