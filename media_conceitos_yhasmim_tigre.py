@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 23 18:02:52 2021
-
-@author: Yhasmim
-"""
+#O usuário digita sua primeiro e segunda nota e recebe uma classficação de acordo com ela.
 
 print("Digite sua primeira nota")
 prim_nota = input()
