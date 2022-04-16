@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Sep 23 18:20:25 2021
-
-@author: Yhasmim
+Um cliente deseja realizar uma compra. Esse programa recebe o valor, a forma de pagamento (com condições de desconto para
+diferentes tipos de pagamento) e retorna o valor total da compra.
 """
 
 print("Qual o valor da sua compra?")
