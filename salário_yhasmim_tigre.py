@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Sep 23 17:12:47 2021
-
-@author: Yhasmim
+Nesse programa o usuario coloca seu salário hora e as horas trabalhadas no mês para saber 
+seu salário bruto, a porcentagem que vai para o imposto de renda, a que vai para o INSS, 
+a que vai para o sindicado e o salário liquido.
 """
 
 print ("quanto você ganha por hora?")
