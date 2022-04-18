@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Sep 23 17:41:16 2021
-
-@author: Yhasmim
+Esse programa descobre se o seu triangulo é equilátero, isósceles ou escaleno.
 """
 
 print("entre com o primeiro lado do triangulo")
