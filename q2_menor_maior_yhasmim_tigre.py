@@ -1,10 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Sep 29 20:57:37 2021
-
-@author: Yhasmim
+Esse programa recebe números e retorna o maior, o menor e soma deles
 """
-print("digite números")
+print("digite números: ")
 num = int
 soma = 0
 menor = None
