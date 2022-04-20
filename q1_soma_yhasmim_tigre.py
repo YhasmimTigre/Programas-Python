@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 29 20:26:57 2021
-
-@author: Yhasmim
-"""
 num = int 
 num = 1
 soma = 0
