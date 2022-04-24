@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 29 21:27:52 2021
-
-@author: Yhasmim
-"""
 x = 70.000
 y = 180.000
 NUM_ANOS = 0
