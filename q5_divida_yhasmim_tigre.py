@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Sep 29 22:20:40 2021
-
-@author: Yhasmim
+Esse programa realiza um calculo de divida, levando em conta
+os juros e os meses de pagamento para gerar o total de juros
+e o total a ser pago.
 """
 
 print("qual o valor inicial da divida?")
