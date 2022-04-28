@@ -1,13 +1,10 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Sep 29 21:49:16 2021
-
-@author: Yhasmim
+Esse programa realiza divisões entre números, retorna o resultado e o resto
 """
-print("digite o numerador número:")
+print("digite o numerador:")
 x = input()
 x = float(x)
-print("digite o denominador número:")
+print("digite o denominador:")
 y = input()
 y = float (y)
 divisao = 0
