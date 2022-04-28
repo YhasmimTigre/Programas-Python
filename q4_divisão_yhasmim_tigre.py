@@ -1,5 +1,9 @@
-#Esse programa efetua divisões
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Sep 29 21:49:16 2021
 
+@author: Yhasmim
+"""
 print("digite o numerador número:")
 x = input()
 x = float(x)
