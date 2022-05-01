@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Sep 30 09:19:14 2021
-
-@author: Yhasmim
+aqui, simulo um programa de supermercado que recebe um codigo de um produto e retorna o preço de acordo
+com a quantidade comprada
 """
 total = 0
 cod_prod = 1
