@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Sep 30 10:32:07 2021
-
-@author: Yhasmim
+Nesse programa, realizamos o calculo de uma raiz quadrada,
+resultando no seu valor aproximado
 """
 
 print("qual a raiz quadrada a ser calculada?")
