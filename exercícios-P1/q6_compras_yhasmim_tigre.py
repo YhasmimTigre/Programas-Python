@@ -43,4 +43,3 @@ while (cod_prod != 0):
 print(f"total da compra: {total:.2f}")  
 
 input()
-     
