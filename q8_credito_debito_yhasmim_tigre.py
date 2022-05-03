@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Sep 23 18:46:57 2021
-
-@author: Yhasmim
+Esse programa recebe valores de uma compra e trabalha com elif para encontrar 
+descontos para formas de pagamento e retorna o valor total da compra
 """
 
 print("Qual o valor da sua compra?")
