@@ -1,11 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Oct  7 16:37:28 2021
-
-@author: Yhasmim
+Esse programa realiza a tabuada de "qualquer" número.
 """
-
-
 resposta = 0
 while( resposta != 'n'):
     print("digite o numero que desejar saber a tabuada:")
@@ -15,4 +10,3 @@ while( resposta != 'n'):
         print ('%d * %d = %d' % (num_int, numero+1, num_int*(numero+1)) )
     print("desejar saber a tabuada de outro numero? s/n")
     resposta = input()
-  
