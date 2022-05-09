@@ -1,9 +1,6 @@
 
-# -*- coding: utf-8 -*-
 """
-Created on Thu Oct  7 17:21:34 2021
-
-@author: Yhasmim
+Esse programa calcula a taxa de juros para a poupança e quando você ganharia
 """
 print("Bem-Vindo")
 
