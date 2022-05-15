@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Oct  7 18:01:33 2021
-
-@author: Yhasmim
+Emulando um teste da Capricho, o programa descobre a faixa etária de uma turma
+a partir das idades recebidas
 """
 
 print("Teste da Capricho! sua turma é jovem, adulta ou idosa?")
