@@ -1,10 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Oct  7 18:34:44 2021
-
-@author: Yhasmim
+Calculo de base e expoente
 """
-
 
 base_num = int(input("digite a base: "))
 
