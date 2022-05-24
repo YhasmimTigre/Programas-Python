@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Wed Sep 29 22:20:40 2021
-
-@author: Yhasmim
+Esse programa calcula o valor de uma divida de acordo com o juros e prestações
 """
 
 print("qual o valor inicial da divida?")
