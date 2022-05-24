@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Oct  7 18:52:42 2021
-
-@author: Yhasmim
+Programa que simula uma eleição
 """
 
 num_eleitores = int(input("Qual o numero total de eleitores? "))
