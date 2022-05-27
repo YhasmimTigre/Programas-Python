@@ -1,10 +1,6 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Oct  7 21:43:28 2021
-
-@author: Yhasmim
+Imprime sequencia de fibonnaci
 """
-
 
 num = int(input("digite um numero inteiro: "))
 
