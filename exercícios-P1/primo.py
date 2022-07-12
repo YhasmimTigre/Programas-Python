@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Fri Oct  7 22:19:56 2021
-
-@author: Yhasmim
+programa que verifica se um numero é primo
 """
 
 num = int(input("vamos verificar se um numero é primo! Digite o numero: "))
