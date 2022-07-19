@@ -1,9 +1,3 @@
-"""
-Created on Sat Oct 30 15:30:49 2021
-
-@author: Yhasmim
-"""
-
 #definimos as listas
 
 vetor_x = []
