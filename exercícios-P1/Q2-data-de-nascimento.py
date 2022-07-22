@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sat Nov 20 10:03:19 2021
-
-@author: Yhasmim
+Esse programa escreve uma data por extenso
 """
 #usuário digita uma string
 data = str(input("digite uma data dd/mm/aaaa: "))
