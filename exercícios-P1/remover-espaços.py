@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 21 20:38:12 2021
-
-@author: Yhasmim
-"""
 #definimos uma string digitada pelo usuário
 string = str(input("Digite uma frase"))
 
